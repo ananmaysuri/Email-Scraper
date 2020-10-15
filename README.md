@@ -1,9 +1,8 @@
 # Email-Scraper
-Love Alert Assignment
 
 This project was made with PyCharm IDE in Python 3.7 Virtualenv.
 
-Steps to Execute:-
+## Steps to Execute:-
 1. Open this Project with PyCharm.
 2. In the terminal enter the following command to install dependencies "pip install -r requirements.txt".
 3. In the main.py, do the following changes:-
