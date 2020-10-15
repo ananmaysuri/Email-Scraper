@@ -1,4 +1,4 @@
-# Email-Scraper
+# Email Scraper
 
 This project was made with PyCharm IDE in Python 3.7 Virtualenv.
 
